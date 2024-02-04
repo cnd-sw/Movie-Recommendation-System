@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie-Recommendation-System Using DL and ML Algorithms in Big Data
 
 Initially, Apache Spark was loaded on the environment by ownloading the Java Virtual Machine (JVM)
 When the hadoop environment was set up, we ran the Movie Lens dataset on Machine Learning algorithms a Deep Learnign Algorithms and compared which model gave us the best results.
